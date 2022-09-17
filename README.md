@@ -59,6 +59,7 @@ To clone this project into your local machine. Open your command prompt and ensu
 https://github.com/EmmanuelPetrus/GENDER_CLASSIFICATION_USING_SPEECH-_RECOGNITION.git
 ```
 Firstly, you would need to have the gender classification file which has already been pre-trained using the GRU network model. Your PC also by default already has an audio input device(microphone) that is working properly.
+The Pre-trained model can be gotten from [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU1zSHYxVHhfRkkwdW9KVUFNV1RYNFVjLUFnQXxBQ3Jtc0ttTGFCU29YT0ctTHlMV0NUSXFmTTVTOVRrT0lRel9icWZBRXM1TzFxUjNZSTB1QXZ3WWtGeTBaazlsNzA1cDM5TTlwMU02ZHN4RGREbldCUWwwdTBOWU11akRrZUhFYUFoMjBsYjBUSDI1T2RLN0RCSQ&q=http%3A%2F%2Fssd.mathworks.com%2Fsupportfiles%2Faudio%2FGenderClassification.zip&v=Hm3A2S8N_wc)
 
 Sometimes, when you copy the files to your current folder, the computer might tell you that you do not have permission to paste the files. Well do not be afraid, you can open the current folder in the windows explorer by right clicking on the current folder and paste it there. Although when running the code finally, you might need to change folder path to a more convenient path.
 Once the files are on your matlab window, you save them both. Remember to save the function so that it can be called and passed to the main code. When you are done saving, go to where you stored the gender classification file pre-trained using GRU network model and copy the file path.
