@@ -92,11 +92,11 @@ The degree of essentiality betiding this project makes it fit to be open sourced
 
 # Contact
 
-- Okoli Henry (Team Lead) - ![Henry](twitter.com)
+- Okoli Henry (Team Lead) - [Henry](twitter.com)
 - Owolabi Daniel  - [Daniel](twitter.come)
 - Owolabi Opeyemi  - [Opeyemi](twitter.com)
 - Owonifari Damola - [Damola](twitter.com)
-- Peter Emmanuel - ![Emmy](https://twitter.com/Emmy_Ojonilemi)
+- Peter Emmanuel - [Emmy](https://twitter.com/Emmy_Ojonilemi)
 
 - Project Link : [Gender Classification](https://github.com/EmmanuelPetrus/GENDER_CLASSIFICATION_USING_SPEECH-_RECOGNITION)
 
